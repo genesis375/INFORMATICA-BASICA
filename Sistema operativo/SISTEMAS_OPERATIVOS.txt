@@ -1,0 +1,24 @@
+¿Qué es un sistema operativo?
+Un sistema operativo es el software principal de un dispositivo. Actúa como intermediario entre el usuario y el hardware, permitiendo que los programas funcionen correctamente y que el usuario pueda interactuar con el equipo.
+
+Funciones principales
+Administrar la memoria del sistema.
+Controlar el procesador y ejecutar programas.
+Gestionar los dispositivos de entrada y salida (teclado, mouse, impresora, etc.).
+Organizar los archivos y carpetas.
+Brindar seguridad y control de acceso a los usuarios.
+Tipos de sistemas operativos
+De escritorio: utilizados en computadoras personales.
+Móviles: diseñados para teléfonos inteligentes y tabletas.
+De red: administran recursos compartidos entre varios equipos.
+De tiempo real: usados en sistemas industriales, médicos y de control.
+Ejemplos
+Algunos de los sistemas operativos más conocidos son:
+
+Microsoft Windows
+macOS
+Linux
+Android
+iOS
+Importancia
+Los sistemas operativos son esenciales porque permiten el funcionamiento del hardware, facilitan el uso de aplicaciones, mejoran la seguridad y hacen posible realizar múltiples tareas de manera eficiente.
