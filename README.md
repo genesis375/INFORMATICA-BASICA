@@ -10,7 +10,7 @@ Bienvenido al proyecto grupal sobre le informatica basica.
 - [Git y Gitbuh](04_Proyectos_Finales/)
 
 ## 🛠️ Herramientas
-- **Documentos:** Docs, ppt,imagenes
+- **Documentos:** Docs, PPT ,imagenes
 - **Entorno:** Git y GitHub
 
 ## 🤝 Contribuciones
