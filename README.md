@@ -13,7 +13,13 @@ En ello se crearan diferentes archivos para explicar de forma clara y didáctica
 ##  Herramientas
 - **Documentos:** Docs, PPT ,imagenes
 - **Entorno:** Git y GitHub
+  
 ## Participantes 
-- 
+- Linconl Oswaldo Rodriguez
+- Hildebrando Raul Gonzales
+- Genesis Machuca Vilchez
+- Mary Quispe Chauca
+- Roberto Portilla
+  
 ##  Datos de información
 Si ves algún error, tienes una sugerencia o quieres mejorar alguno de los códigos, ¡siéntete libre de hacer un *Fork* y enviar un *Pull Request*!
