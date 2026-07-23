@@ -22,4 +22,5 @@ En ello se crearan diferentes archivos para explicar de forma clara y didáctica
 - Roberto Portilla
   
 ##  Datos de información
-Si ves algún error, tienes una sugerencia o quieres mejorar alguno de los códigos, ¡siéntete libre de hacer un *Fork* y enviar un *Pull Request*!
+
+La informática básica sirve para entender y utilizar la tecnología en la vida cotidiana y laboral. Permite gestionar información digital, navegar en internet de forma segura, redactar documentos, usar el correo electrónico y agilizar trámites personales o profesionales, evitando la dependencia tecnológica y mejorando la productividad.
