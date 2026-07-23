@@ -14,6 +14,6 @@ En ello se crearan diferentes archivos para explicar de forma clara y didáctica
 - **Documentos:** Docs, PPT ,imagenes
 - **Entorno:** Git y GitHub
 ## Participantes 
-
+- 
 ##  Datos de información
 Si ves algún error, tienes una sugerencia o quieres mejorar alguno de los códigos, ¡siéntete libre de hacer un *Fork* y enviar un *Pull Request*!
