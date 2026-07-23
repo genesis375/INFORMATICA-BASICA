@@ -1,6 +1,7 @@
 # Apuntes y Proyectos de Informática 
 
 Bienvenido al proyecto grupal sobre le informatica basica. 
+En ello se crearan diferentes archivos para 
 
 ## Contenido
 - [Introducción a la Computadora](01_Fundamentos_Programacion/)
@@ -12,6 +13,7 @@ Bienvenido al proyecto grupal sobre le informatica basica.
 ##  Herramientas
 - **Documentos:** Docs, PPT ,imagenes
 - **Entorno:** Git y GitHub
+## Participantes 
 
-##  Contribuciones
+##  Datos de información
 Si ves algún error, tienes una sugerencia o quieres mejorar alguno de los códigos, ¡siéntete libre de hacer un *Fork* y enviar un *Pull Request*!
